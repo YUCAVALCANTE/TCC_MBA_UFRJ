@@ -1,0 +1,282 @@
+CO_PAIS	CO_PAIS_ISON3	CO_PAIS_ISOA3	NO_PAIS
+000	898	ZZZ	Não Definido
+013	004	AFG	Afeganistão
+015	248	ALA	Aland, Ilhas
+017	008	ALB	Albânia
+020	724	ESP	Alboran-Perejil, Ilhas
+023	276	DEU	Alemanha
+025	278	DEU	Alemanha Oriental
+031	854	BFA	Burkina Faso
+037	020	AND	Andorra
+040	024	AGO	Angola
+041	660	AIA	Anguilla
+042	010	ATA	Antártica
+043	028	ATG	Antígua e Barbuda
+047	530	ANT	Antilhas Holandesas
+053	682	SAU	Arábia Saudita
+059	012	DZA	Argélia
+063	032	ARG	Argentina
+064	051	ARM	Armênia
+065	533	ABW	Aruba
+069	036	AUS	Austrália
+072	040	AUT	Áustria
+073	031	AZE	Azerbaijão
+077	044	BHS	Bahamas
+080	048	BHR	Barein
+081	050	BGD	Bangladesh
+083	052	BRB	Barbados
+085	112	BLR	Belarus
+087	056	BEL	Bélgica
+088	084	BLZ	Belize
+090	060	BMU	Bermudas
+093	104	MMR	Mianmar
+097	068	BOL	Bolívia
+098	070	BIH	Bósnia-Herzegovina
+099	535	BES	Bonaire, Saint Eustatius e Saba
+100	898	BRA	Internação na Zona Franca de Manaus
+101	072	BWA	Botsuana
+102	074	BVT	Bouvet, Ilha
+105	076	BRA	Brasil
+108	096	BRN	Brunei
+111	100	BGR	Bulgária
+115	108	BDI	Burundi
+119	064	BTN	Butão
+127	132	CPV	Cabo Verde
+137	136	CYM	Cayman, Ilhas
+141	116	KHM	Camboja
+145	120	CMR	Camarões
+149	124	CAN	Canadá
+150	831	GGY	Canal, Ilhas do (Guernsey)
+151	724	ESP	Canárias, Ilhas
+152	826	GBR	Canal, Ilhas do (Jersey)
+153	398	KAZ	Cazaquistão
+154	634	QAT	Catar
+158	152	CHL	Chile
+160	156	CHN	China
+161	158	TWN	Taiwan (Formosa)
+163	196	CYP	Chipre
+165	166	CCK	Cocos (Keeling), Ilhas
+169	170	COL	Colômbia
+173	174	COM	Comores
+177	178	COG	Congo
+183	184	COK	Cook, Ilhas
+187	408	PRK	Coreia do Norte
+190	410	KOR	Coreia do Sul
+193	384	CIV	Costa do Marfim
+195	191	HRV	Croácia
+196	188	CRI	Costa Rica
+198	414	KWT	Coveite (Kuweit)
+199	192	CUB	Cuba
+200	531	CUW	Curaçao
+229	204	BEN	Benin
+232	208	DNK	Dinamarca
+235	212	DMA	Dominica
+237	784	ARE	Dubai
+239	218	ECU	Equador
+240	818	EGY	Egito
+243	232	ERI	Eritreia
+244	784	ARE	Emirados Árabes Unidos
+245	724	ESP	Espanha
+246	705	SVN	Eslovênia
+247	703	SVK	Eslováquia
+249	840	USA	Estados Unidos
+251	233	EST	Estônia
+253	231	ETH	Etiópia
+255	238	FLK	Falkland (Malvinas)
+259	234	FRO	Faroe, Ilhas
+267	608	PHL	Filipinas
+271	246	FIN	Finlândia
+275	250	FRA	França
+281	266	GAB	Gabão
+285	270	GMB	Gâmbia
+289	288	GHA	Gana
+291	268	GEO	Geórgia
+292	239	SGS	Geórgia do Sul e Sandwich do Sul, Ilhas
+293	292	GIB	Gibraltar
+297	308	GRD	Granada
+301	300	GRC	Grécia
+305	304	GRL	Groenlândia
+309	312	GLP	Guadalupe
+313	316	GUM	Guam
+317	320	GTM	Guatemala
+321	898	GGY	Guernsey
+325	254	GUF	Guiana Francesa
+329	324	GIN	Guiné
+331	226	GNQ	Guiné Equatorial
+334	624	GNB	Guiné-Bissau
+337	328	GUY	Guiana
+341	332	HTI	Haiti
+343	334	HMD	Heard e ilhas mcdonald, Ilha
+345	340	HND	Honduras
+351	344	HKG	Hong Kong
+355	348	HUN	Hungria
+357	887	YEM	Iêmen
+358	720	YMD	Iêmen Democrático
+359	833	IMN	Ilha de Man
+361	356	IND	Índia
+365	360	IDN	Indonésia
+367	826	GBR	Inglaterra
+369	368	IRQ	Iraque
+372	364	IRN	Irã
+375	372	IRL	Irlanda
+379	352	ISL	Islândia
+383	376	ISR	Israel
+386	380	ITA	Itália
+388	891	SCG	Iugoslávia
+391	388	JAM	Jamaica
+393	898	ZZZ	Jersey
+396	840	USA	Johnston, Ilhas
+399	392	JPN	Japão
+403	400	JOR	Jordânia
+411	296	KIR	Kiribati
+420	418	LAO	Laos
+423	458	MYS	Lebuan, Ilhas
+426	426	LSO	Lesoto
+427	428	LVA	Letônia
+431	422	LBN	Líbano
+434	430	LBR	Libéria
+438	434	LBY	Líbia
+440	438	LIE	Liechtenstein
+442	440	LTU	Lituânia
+445	442	LUX	Luxemburgo
+447	446	MAC	Macau
+449	807	MKD	Macedônia
+450	450	MDG	Madagascar
+452	620	PRT	Madeira, Ilha da
+455	458	MYS	Malásia
+458	454	MWI	Malavi
+461	462	MDV	Maldivas
+464	466	MLI	Mali
+467	470	MLT	Malta
+472	580	MNP	Marianas do Norte, Ilhas
+474	504	MAR	Marrocos
+476	584	MHL	Marshall, Ilhas
+477	474	MTQ	Martinica
+485	480	MUS	Maurício
+488	478	MRT	Mauritânia
+489	898	ZZZ	Mayotte
+490	581	UMI	Midway, Ilhas
+493	484	MEX	México
+494	498	MDA	Moldávia
+495	492	MCO	Mônaco
+497	496	MNG	Mongólia
+498	499	MNE	Montenegro
+499	583	FSM	Micronésia
+501	500	MSR	Montserrat
+505	508	MOZ	Moçambique
+507	516	NAM	Namíbia
+508	520	NRU	Nauru
+511	162	CXR	Christmas (Navidad), Ilha
+517	524	NPL	Nepal
+521	558	NIC	Nicarágua
+525	562	NER	Níger
+528	566	NGA	Nigéria
+531	570	NIU	Niue
+535	574	NFK	Norfolk, Ilha
+538	578	NOR	Noruega
+542	540	NCL	Nova Caledônia
+545	598	PNG	Papua Nova Guiné
+548	554	NZL	Nova Zelândia
+551	548	VUT	Vanuatu
+556	512	OMN	Omã
+563	581	UMI	Pacífico, Ilhas do (Administração dos EUA)
+566	581	UMI	Pacífico, Ilhas do (EUA)
+569	581	UMI	Pacífico, Ilhas do (Território Fideicomisso EUA)
+573	528	NLD	Países Baixos (Holanda)
+575	585	PLW	Palau
+576	586	PAK	Paquistão
+578	275	PSE	Palestina
+580	591	PAN	Panamá
+583	598	PNG	Papua, Território de
+586	600	PRY	Paraguai
+589	604	PER	Peru
+593	612	PCN	Pitcairn
+599	258	PYF	Polinésia Francesa
+603	616	POL	Polônia
+607	620	PRT	Portugal
+611	630	PRI	Porto Rico
+623	404	KEN	Quênia
+625	417	KGZ	Quirguistão
+628	826	GBR	Reino Unido
+640	140	CAF	República Centro-Africana
+647	214	DOM	República Dominicana
+660	638	REU	Reunião
+665	716	ZWE	Zimbábue
+670	642	ROU	Romênia
+675	646	RWA	Ruanda
+676	643	RUS	Rússia
+677	090	SLB	Salomão, Ilhas
+678	659	KNA	Saint Kitts e Nevis
+685	732	ESH	Saara Ocidental
+687	222	SLV	El Salvador
+690	882	WSM	Samoa
+691	016	ASM	Samoa Americana
+693	652	BLM	São Bartolomeu
+695	659	KNA	São Cristóvão e Névis
+697	674	SMR	San Marino
+698	898	ZZZ	São Martinho, Ilha de (parte francesa)
+699	534	SXM	Sint Maarten
+700	666	SPM	São Pedro e Miquelon
+705	670	VCT	São Vicente e Granadinas
+710	654	SHN	Santa Helena
+715	662	LCA	Santa Lúcia
+720	678	STP	São Tomé e Príncipe
+728	686	SEN	Senegal
+731	690	SYC	Seicheles
+735	694	SLE	Serra Leoa
+737	688	SRB	Sérvia
+741	702	SGP	Singapura
+744	760	SYR	Síria
+748	706	SOM	Somália
+750	144	LKA	Sri Lanka
+754	748	SWZ	Suazilândia
+755	744	SJM	Svalbard e Jan Mayen
+756	710	ZAF	África do Sul
+759	736	SDN	Sudão
+760	728	SSD	Sudão do Sul
+764	752	SWE	Suécia
+767	756	CHE	Suíça
+770	740	SUR	Suriname
+772	762	TJK	Tadjiquistão
+776	764	THA	Tailândia
+780	834	TZA	Tanzânia
+781	898	ATF	Terras Austrais Francesas
+782	086	IOT	Território Britânico do Oceano Índico
+783	262	DJI	Djibuti
+785	898	ZZZ	Território da Alta Comissão do Pacífico Ocidental
+786	826	GBR	Território Antártico Britânico
+788	148	TCD	Chade
+790	200	CSK	Tchecoslováquia
+791	203	CZE	Tcheca, República
+795	626	TLS	Timor Leste
+800	768	TGO	Togo
+805	772	TKL	Toquelau
+810	776	TON	Tonga
+815	780	TTO	Trinidad e Tobago
+820	788	TUN	Tunísia
+823	796	TCA	Turcas e Caicos, Ilhas
+824	795	TKM	Turcomenistão
+827	792	TUR	Turquia
+828	798	TUV	Tuvalu
+831	804	UKR	Ucrânia
+833	800	UGA	Uganda
+840	898	ZZZ	União das Repúblicas Socialistas Soviéticas
+845	858	URY	Uruguai
+847	860	UZB	Uzbequistão
+848	336	VAT	Vaticano
+850	862	VEN	Venezuela
+858	704	VNM	Vietnã
+863	092	VGB	Virgens, Ilhas (Britânicas)
+866	850	VIR	Virgens, Ilhas (Americanas)
+870	242	FJI	Fiji
+873	840	USA	Wake, Ilha
+875	876	WLF	Wallis e Futuna, Ilhas
+888	180	COD	Congo, República Democrática
+890	894	ZMB	Zâmbia
+895	592	PCZ	Zona do Canal do Panamá
+990	898	ZZZ	Provisão de Navios e Aeronaves
+994	898	ZZZ	A Designar
+995	898	ZZZ	Bancos Centrais
+997	898	ZZZ	Organizações Internacionais
+998	898	ZZZ	Sem informação
+999	898	ZZZ	Não Declarados
